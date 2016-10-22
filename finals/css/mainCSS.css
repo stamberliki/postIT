@@ -1,0 +1,102 @@
+*{
+	font-family: Verdana;
+	font-size: 12px;
+}
+a:link{
+  color: black;
+}
+a:active{
+  color: black;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: black;
+}
+.logo{
+	position: relative;
+	width: 80px;
+	height: 100%;
+	top: 0px;
+}
+.postBtn{
+	position: fixed;
+	bottom: 0px;
+	background-color: #4bc479;
+	left: 90%;
+	width: 70px;
+	height: 10%;
+	padding: 5px;
+	top: 88%;
+	border-radius: 50px;
+}
+.container1{
+	margin: 50px 0px 0px 50px;
+	width: 700px;
+	position: absolute;
+}
+.post{
+	padding: 25px 0px 50px 0px;
+	width: 100%;
+	border-bottom: 1px solid;
+	border-color: #b7b7b7;
+}
+.caption{
+	font-size: 25px;
+}
+#icon{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.text{
+	font-size: 20px;
+	float: left;
+	margin: 20px 50px 20px 50px;
+}
+.image{
+	position: relative;
+	width: 500px;
+	margin-top: 10px;
+}
+.line{
+	margin: 10px;
+}
+.imgComments{
+	position: relative;
+	width: 700px;
+	margin-top: 10px;
+}
+.commentPost{
+	margin-top: 20px;
+}
+.commentCont{
+	width: 100%;
+	height: 100px;
+}
+.commentUser{
+	margin: 50px 50px 20px 0px;
+	position: relative;
+}
+.abtContainer{
+	padding: 50px 100px 50px 100px;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.abtContent{
+	margin: 50px 0px 50px 0px;
+	position: relative;
+}
+.abtImage{
+	width: 300px;
+	height: 300px;
+	position: absolute;
+}
+.right{
+	float: right;
+}
+.left{
+	float: left;
+}
